@@ -51,4 +51,4 @@ gem 'omniauth'
 gem 'omniauth-facebook'
 
 # Bootstrapping and design
-gem 'bootstrap-sass'
+gem "twitter-bootstrap-rails"
