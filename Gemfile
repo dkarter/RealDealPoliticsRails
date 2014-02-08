@@ -45,6 +45,10 @@ end
 gem 'debugger', group: [:development, :test]
 
 
+group :production do
+	gem 'pg'
+end
+
 # Authentication related
 gem 'devise'
 gem 'omniauth'
