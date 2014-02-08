@@ -393,7 +393,7 @@ input{
 	background-position: center center;
 }
 .main_name{
-	background-color:  rgba(0,0,0,0.6);
+	background-color:  #004A7E;
 }
 .main_title.simple_sections h1{
 	text-align: left;
@@ -436,7 +436,7 @@ input{
 	padding: 5px 0px 5px 45px;
 	font-size: 14px;
 	margin-left: 0;
-	height: 40px;
+	height: 80px;
 	border-radius: 5px;
 	background: #ffffff url(../img/mail.png) no-repeat 12px;
 }
