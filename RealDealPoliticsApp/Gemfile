@@ -42,4 +42,13 @@ end
 # gem 'capistrano', group: :development
 
 # Use debugger
-# gem 'debugger', group: [:development, :test]
+gem 'debugger', group: [:development, :test]
+
+
+# Authentication related
+gem 'devise'
+gem 'omniauth'
+gem 'omniauth-facebook'
+
+# Bootstrapping and design
+gem 'bootstrap-sass'
